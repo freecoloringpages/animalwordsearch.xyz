@@ -23,4 +23,4 @@ How about a yummy crepe?
 
 ![Hình ảnh ở đây](https://github.com/freecoloringpages/freecoloringpages.github.io/blob/ab5422a6b8b93e029712a2671775180fc35fb2c2/img/hello_world.jpeg)
 
-![Hình ảnh ở đây](https://github.com/freecoloringpages/freecoloringpages.github.io/blob/master/img/hello_world.jpeg)
+![Hình ảnh ở đây](https://freecoloringpages.github.io/img/hello_world.jpeg)
