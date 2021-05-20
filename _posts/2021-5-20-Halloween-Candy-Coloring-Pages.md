@@ -2,7 +2,7 @@
 layout: post
 title: Halloween Candy Coloring Pages
 desc: Free and printable Halloween Candy Coloring Pages avaiable for you to download
-tags: [Halloween]
+tags: [halloween]
 ---
 
 {{ page.title }}
@@ -18,31 +18,31 @@ This is a special collection of [Halloween Candy Coloring Pages](https://freecol
 
 ## Halloween Candy Coloring Pages 1
 
-![Halloween Candy Coloring Pages 1](https://freecoloringpages.github.io/Halloween/Halloween-Candy-Coloring-Pages1.jpg)
+![Halloween Candy Coloring Pages 1](https://freecoloringpages.github.io/halloween/Halloween-Candy-Coloring-Pages1.jpg)
 
 ## Halloween Candy Coloring Pages 2
 
-![Halloween Candy Coloring Pages 2](https://freecoloringpages.github.io/Halloween/Halloween-Candy-Coloring-Pages2.jpg)
+![Halloween Candy Coloring Pages 2](https://freecoloringpages.github.io/halloween/Halloween-Candy-Coloring-Pages2.jpg)
 
 ## Halloween Candy Coloring Pages 3
 
-![Halloween Candy Coloring Pages 3](https://freecoloringpages.github.io/Halloween/Halloween-Candy-Coloring-Pages3.jpg)
+![Halloween Candy Coloring Pages 3](https://freecoloringpages.github.io/halloween/Halloween-Candy-Coloring-Pages3.jpg)
 
 ## Halloween Candy Coloring Pages 4
 
-![Halloween Candy Coloring Pages 4](https://freecoloringpages.github.io/Halloween/Halloween-Candy-Coloring-Pages4.jpg)
+![Halloween Candy Coloring Pages 4](https://freecoloringpages.github.io/halloween/Halloween-Candy-Coloring-Pages4.jpg)
 
 ## Halloween Candy Coloring Pages 5
 
-![Halloween Candy Coloring Pages 5](https://freecoloringpages.github.io/Halloween/Halloween-Candy-Coloring-Pages5.jpg)
+![Halloween Candy Coloring Pages 5](https://freecoloringpages.github.io/halloween/Halloween-Candy-Coloring-Pages5.jpg)
 
 ## Halloween Candy Coloring Pages 6
 
-![Halloween Candy Coloring Pages 6](https://freecoloringpages.github.io/Halloween/Halloween-Candy-Coloring-Pages6.jpg)
+![Halloween Candy Coloring Pages 6](https://freecoloringpages.github.io/halloween/Halloween-Candy-Coloring-Pages6.jpg)
 
 ## Halloween Candy Coloring Pages 7
 
-![Halloween Candy Coloring Pages 7](https://freecoloringpages.github.io/Halloween/Halloween-Candy-Coloring-Pages7.jpg)
+![Halloween Candy Coloring Pages 7](https://freecoloringpages.github.io/halloween/Halloween-Candy-Coloring-Pages7.jpg)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
 
